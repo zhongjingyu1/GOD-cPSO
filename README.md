@@ -1,6 +1,6 @@
 # GOD-cPSO
 ### Graph embedding orthogonal decomposition: A synchronous feature selection technique based on collaborative particle swarm optimization (GOD-cPSO)
-#### The article "Graph embedding orthogonal decomposition: A synchronous feature selection technique based on collaborative particle swarm optimization" has been published by Pattern Recognition.
+#### The article "[Graph embedding orthogonal decomposition: A synchronous feature selection technique based on collaborative particle swarm optimization](https://doi.org/10.1016/j.patcog.2024.110453)" has been published by Pattern Recognition.
 
 ## Citing
 If you find this code useful, please consider to cite our work.
